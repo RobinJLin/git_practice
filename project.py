@@ -9,4 +9,7 @@ BASEPATH = os.path.dirname(os.path.abspath(__file__))
 
 if __name__ == "__main__":
 
-    print("第一次學 Git hi hi")
+
+    print("第一次學 Git hi")
+    print("STASH")
+
