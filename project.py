@@ -12,4 +12,5 @@ if __name__ == "__main__":
 
     print("第一次學 Git hi")
     print("STASH")
+    print("add lloooop")
 
